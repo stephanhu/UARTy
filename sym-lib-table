@@ -1,0 +1,11 @@
+(sym_lib_table
+  (lib (name shlib-driver)(type Legacy)(uri ${KIPRJMOD}/kicad_libraries/symbols/shlib-driver.lib)(options "")(descr ""))
+  (lib (name shlib-inductors)(type Legacy)(uri ${KIPRJMOD}/kicad_libraries/symbols/shlib-inductors.lib)(options "")(descr ""))
+  (lib (name shlib-power)(type Legacy)(uri ${KIPRJMOD}/kicad_libraries/symbols/shlib-power.lib)(options "")(descr ""))
+  (lib (name shlib-radio)(type Legacy)(uri ${KIPRJMOD}/kicad_libraries/symbols/shlib-radio.lib)(options "")(descr ""))
+  (lib (name shlib-special)(type Legacy)(uri ${KIPRJMOD}/kicad_libraries/symbols/shlib-special.lib)(options "")(descr ""))
+  (lib (name shlib-switches)(type Legacy)(uri ${KIPRJMOD}/kicad_libraries/symbols/shlib-switches.lib)(options "")(descr ""))
+  (lib (name shlib-touch)(type Legacy)(uri ${KIPRJMOD}/kicad_libraries/symbols/shlib-touch.lib)(options "")(descr ""))
+  (lib (name shlib-passive)(type Legacy)(uri ${KIPRJMOD}/kicad_libraries/symbols/shlib-passive.lib)(options "")(descr ""))
+  (lib (name cache)(type Legacy)(uri ${KIPRJMOD}/UARTy-cache.lib)(options "")(descr ""))
+)
